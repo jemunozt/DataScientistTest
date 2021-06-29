@@ -2,7 +2,6 @@
 Data Scientist Test for Julian Munoz - due date june 30th:
 
 In this dataset you have 3 different outputs:
-
 1. No readmission;
 2. A readmission in less than 30 days (this situation is not good, because maybe your treatment was not appropriate);
 3. A readmission in more than 30 days (this one is not so good as well the last one, however, the reason could be the state of the patient.
