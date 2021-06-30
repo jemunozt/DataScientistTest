@@ -14,3 +14,20 @@ Hint to success in your quest: Develop and stay clear of the data science proces
 
 You have up to a day before the technical interview to share your results of this test.
 Good luck.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+# Data scientist test development
+
+Following the exploratory data analysis (EDA) process using Python and Jupyter Notebook, the dataset was analyzed as follows:
+1. Check dataset provided
+   a. Load dataset.
+   b. Check dataset for "errors" or "inaccuracies":
+      i. Missing values
+      ii. Outline Atypical values
+      iii. Correlation
+2. Análisis Exploratorio de los datos (EDA)
+Clean data / process / model
+present results / script to results generation
+Report to communicate results
+Conclusions / Decision making
