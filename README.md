@@ -32,4 +32,4 @@ present results / script to results generation
 Report to communicate results
 Conclusions / Decision making
 
-## see the detail in "Diabetes Analysis.ipynb"
+## see details in "Diabetes Analysis.ipynb"
